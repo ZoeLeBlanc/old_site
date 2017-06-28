@@ -20,7 +20,7 @@ nav_list:
   Archives: ['Archives', '/archives', 'fa-archive']
   Research: ['Research', '/research', 'fa-book']
   Teaching: ['Teaching', '/teaching', 'fa-paper-plane']
-  Portfolio: ['Portfolio', url+'/portfolio', 'fa-folder']
+  Portfolio: ['Portfolio', 'https://zoeleblanc.com/portfolio', 'fa-folder']
   Twitter : ['Twitter', 'https://twitter.com/Zoe_LeBlanc', 'fa-twitter']
   Github : ['Github', 'https://github.com/ZoeLeBlanc/', 'fa-github']
   Tumblr : ['Tumblr', 'http://zoegenevieve.tumblr.com', 'fa-tumblr']
