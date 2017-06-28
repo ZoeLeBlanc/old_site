@@ -10,7 +10,8 @@ collections:
     output: true
 email: zgleblanc@gmail.com
 description: ''
-url: https://zoeleblanc.com/old_site/
+url: https://zoeleblanc.com/
+baseurl: /old_site
 enable_retina: false
 permalink: :title
 nav_list:
@@ -19,7 +20,7 @@ nav_list:
   Archives: ['Archives', '/archives', 'fa-archive']
   Research: ['Research', '/research', 'fa-book']
   Teaching: ['Teaching', '/teaching', 'fa-paper-plane']
-  Portfolio: ['Portfolio', 'https://zoeleblanc.com/old_site/portfolio', 'fa-folder']
+  Portfolio: ['Portfolio', url+'/portfolio', 'fa-folder']
   Twitter : ['Twitter', 'https://twitter.com/Zoe_LeBlanc', 'fa-twitter']
   Github : ['Github', 'https://github.com/ZoeLeBlanc/', 'fa-github']
   Tumblr : ['Tumblr', 'http://zoegenevieve.tumblr.com', 'fa-tumblr']
