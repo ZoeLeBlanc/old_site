@@ -30,7 +30,7 @@ footer_links:
     Home: ['Home', '/']
     About: ['About', '/author/zoe']
     Archives: ['Archives', '/archives']
-    Portfolio: ['Portfolio', 'https://zoeleblanc.com/old_site/portfolio']
+    Portfolio: ['Portfolio', 'https://zoeleblanc.com/portfolio']
     Twitter: ['Twitter', 'https://twitter.com/Zoe_LeBlanc']
 
 # Build settings
